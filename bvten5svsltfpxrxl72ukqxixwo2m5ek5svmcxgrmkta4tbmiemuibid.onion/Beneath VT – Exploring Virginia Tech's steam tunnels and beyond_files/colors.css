@@ -1,0 +1,59 @@
+body {
+	background: #646464;
+}
+
+a:link,
+a:visited {
+	color: #3c5b6f;
+}
+
+a:hover,
+a:active {
+	color: #557082;
+}
+
+#header {
+	background: url(../images/header_bg.png) #333;
+}
+
+#header h1,
+#header h1 a {
+	color: #fff;
+}
+
+#header #subtitle {
+	color: #dbd8bc;
+}
+
+#navbar,
+#map_key,
+#side_info {
+	background: #edeada;
+}
+
+ul#navbar li a.active,
+#footer {
+	background: #dbd8bc;
+}
+
+#content {
+	background: #f5f5eb;
+}
+
+h2 {
+	color: #333;
+}
+
+#map_area,
+#map_key {
+	border-color: #dbd8bc;
+}
+
+.olControlLayerSwitcher > div > span,
+.olControlLayerSwitcher .layersDiv {
+	background: #333 !important;
+}
+
+.olControlOverviewMapElement {
+	background: #666;
+}
